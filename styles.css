@@ -1,0 +1,22 @@
+body{
+    background-color: #232D24;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    text-align: center;
+}
+
+h1{
+    color: #FBCC6A;
+    font-size: 3rem;
+    
+}
+
+.bg{
+    background-image: linear-gradient(to bottom, #FF9933, #FFFFFF, #128807);
+    background-size: 100% 100%;
+    animation: wave 2s infinite; 
+    
+}
+
